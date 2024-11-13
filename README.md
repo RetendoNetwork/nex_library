@@ -1,2 +1,2 @@
 # nex-library
-Retendo Network NEX/PRUDP implementation library.
+- Retendo Network NEX/PRUDP implementation library.
