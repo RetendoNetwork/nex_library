@@ -1,3 +1,6 @@
 [submodule "nex"]
 	path = nex
 	url = https://github.com/RetendoNetwork/nex
+[submodule "nex_logger"]
+	path = nex_logger
+	url = https://github.com/RetendoNetwork/nex_logger
