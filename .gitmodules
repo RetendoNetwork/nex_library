@@ -4,3 +4,6 @@
 [submodule "nex_logger"]
 	path = nex_logger
 	url = https://github.com/RetendoNetwork/nex_logger
+[submodule "nex_protocols"]
+	path = nex_protocols
+	url = https://github.com/RetendoNetwork/nex_protocols
