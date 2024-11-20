@@ -7,3 +7,6 @@
 [submodule "nex_protocols"]
 	path = nex_protocols
 	url = https://github.com/RetendoNetwork/nex_protocols
+[submodule "crunch"]
+	path = crunch
+	url = https://github.com/RetendoNetwork/crunch
